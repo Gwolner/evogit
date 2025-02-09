@@ -1,6 +1,5 @@
-# EvoGit API
+
+# EvoGit (API + WEB)
 Pojeto destinado a expandir os conhecimentos práticos sobre gerenciamento de repositórios Git.
-<br><br>
-Projeto com objetivo de reproduzir cenários de problemas encontrados no grênciamento do repositório remoto baseado em caso de aplicações reais.
-
-
+<br<br>
+Usado para receber modificações provenientes do frontend e backend, unificando o projeto como um todo.
